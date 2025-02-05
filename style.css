@@ -1,0 +1,11 @@
+.container {
+    padding: 20px;
+    margin: 5px 200px;
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-template-rows: repeat(1, 300px);
+    
+}
+.childern {
+    border: 10px solid grey;
+}
